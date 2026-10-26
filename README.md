@@ -131,7 +131,10 @@ The script outputs a CSV with Section, Control, Title, Status, Finding, and Reme
 ```
 cis-azure-benchmark-automation/
 ├── README.md
-└── NFG-CIS-Assessment-Final-20260907.csv    — Full assessment results, all 100+ controls
+├── NFG-CIS-Assessment-Final-20260907.csv    — Full assessment results, all 100+ controls
+└── screenshots/
+    ├── 01-assessment-terminal-output.png    — Section 1 controls evaluated against the live tenant
+    └── 02-final-results-summary.png         — Full results table, every section
 ```
 
 ---
